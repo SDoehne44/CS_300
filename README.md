@@ -1,7 +1,7 @@
 # CS_300
 
 •	What was the problem you were solving in the projects for this course?  
-&nbsp;&nbsp;&nbsp;&nbsp;The problem I solved for this course was selecting a data structure that could efficiently take in and sort information about college courses for ABC University. I also created a program that was able to parse data and insert it into a binary search tree. The structure of a binary search tree made ordering the course information seamless and allowed users to display information about the courses.  
+&nbsp;&nbsp;&nbsp;&nbsp;The problem I solved for this course was determining a data structure that could efficiently take in and sort information about college courses for ABC University. I also created a program that parsed data from a csv file and inserted it into a binary search tree. The structure of a binary search tree made ordering the course information simple and allowed users to display information about the courses.  
     
 •	How did you approach the problem? Consider why data structures are important to understand.  
 &nbsp;&nbsp;&nbsp;&nbsp;I approached this problem by creating pseudocode and calculating runtimes for three data structures, vectors, hash tables, and binary trees. My runtime analyses need further refinement, but they did help me understand how my code would run. It is important to understand different data structures because one data structure may be particularly suited to a certain task over another. Choosing the best data structure for the task means that code, structures, and functionality are easier to implement. When a structure needs to handle a lot of data, it becomes incredibly important that it works well, works consistently, and is streamlined for easy maintenance.  
